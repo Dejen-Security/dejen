@@ -6,6 +6,12 @@ An android application that helps protect users in Ethiopia from SMS phishing, f
 
 [https://github.com/Dejen-Security/dejen](https://github.com/Dejen-Security/dejen)
 
+### Video Path
+
+file named "Dejen Security -- Video Demonstration.mov"
+
+
+
 ## Project Details
 
 ### Summary
